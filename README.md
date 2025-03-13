@@ -8,4 +8,5 @@
 环境的配置：https://www.cnblogs.com/juzaizai/p/16739306.html \
 现在遇到的问题是无法在本地运行球队，还在找解决方法，也许这周应该可以解决\
 工作日的课程太多了，周末再集中精力解决一下\
-看到了一位巴西老哥的教程，先看一看：https://github.com/herodrigues/robocup2d-tutorial?tab=readme-ov-file
+看到了一位巴西老哥的教程，先看一看：https://github.com/herodrigues/robocup2d-tutorial?tab=readme-ov-file\
+今天通宵吧，与其12点睡7点起不如2点睡9点起————尤其是在没有早八的情况下
