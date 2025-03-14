@@ -26,3 +26,7 @@
 现在的问题是如何找到另一支球队让它们踢一场比赛\
 原本想尝试一下helios base https://github.com/helios-base/helios-base \
 但是编译的时候一直会报错，这也是一个有待解决的问题
+
+总而言之，在这里可以找到大部分球队的二进制文件：https://archive.robocup.info/Soccer/Simulation/2D/binaries/RoboCup/ \
+下载下来我是放在了C盘，可以用cd /mnt/c进入到C盘下面，直接./start.sh就行，不需要编译\
+这值得纪念的第一战最后和安工大打成了3-3，可喜可贺可喜可贺
