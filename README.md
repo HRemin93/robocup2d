@@ -15,7 +15,7 @@
 - [ ] 在本地运行
 
 先想这么多，回头有新的再添加\
-我爱合工大，穿越回高考报志愿的时候我一定报HFUT\
+我爱HFUT，穿越回高考报志愿的时候我一定报HFUT\
 ❤ https://www.bilibili.com/video/BV1UN411d7xg/?spm_id_from=333.337.search-card.all.click ❤
 
 # 3/14/2025
@@ -29,4 +29,9 @@
 
 总而言之，在这里可以找到大部分球队的二进制文件：https://archive.robocup.info/Soccer/Simulation/2D/binaries/RoboCup/ \
 下载下来我是放在了C盘，可以用cd /mnt/c进入到C盘下面，直接./start.sh就行，不需要编译\
-这值得纪念的第一战最后和安工大打成了3-3，可喜可贺可喜可贺
+这值得纪念的第一战最后和AHUT打成了3-3，可喜可贺可喜可贺
+
+# 3/15/2025
+今天什么都没干\
+byd科研终于有进展了，先忙那边\
+晚上还要去NNU打球，今天歇了
